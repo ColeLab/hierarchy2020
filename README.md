@@ -8,7 +8,7 @@ Please note that almost all code was run on a compute cluster at Rutgers (https:
 
 Feel free to e-mail me with questions or comments. In some cases, it may be easier for me to point to the relevant code/lines of interest.
 
-Email: taku.ito1@gmail.com (Taku Ito)
+Email: taku [dot] ito1 [at] gmail [dot] com (Taku Ito)
 
 ---
 
