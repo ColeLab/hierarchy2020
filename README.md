@@ -24,7 +24,7 @@ There are two main directories, as described below: `resultdata/` and `code/`
   * `activityflow/` - code to run activity flow analysis on preprocessed HCP data
   * `connectivity_analysis/` - code to run connectivity analyses, assuming FIR task regression has already been performed.
   * `nonparametric_activityXconn_analysis/` - code to run analyses for the peak-magnitude approach to estimating task activations nand task FC. This assumes that that time series data are nuisance regressed **without any task GLM**.
-  * `timescale/` - code to run time scale calculation on resting-state HCP data. Assumes nuisance regressed time series data.
+  * `timescale/` - code to run timescale calculation on resting-state HCP data. Assumes nuisance regressed time series data.
 
 
 
