@@ -4,7 +4,7 @@ Ito T, Hearne LJ, Cole MW (in press). "A cortical hierarchy of localized and dis
 
 This is the initial code release. 
 
-Please note that almost all code was run on a computer cluster at Rutgers (https://oarc.rutgers.edu/). Much of the code, outside of data visualization, was run on a cluster. My intention of this code release is to enable others to adapt and use the code for their needs, and not as a 'plug-and-play' package.
+Please note that almost all code was run on a compute cluster at Rutgers (https://oarc.rutgers.edu/). Much of the code, outside of data visualization, was run on this cluster. My intention of this code release is to enable others to adapt and use the code for their needs, and not as a 'plug-and-play' package.
 
 Feel free to e-mail me with questions or comments. In some cases, it may be easier for me to point to the relevant code/lines of interest.
 
@@ -14,7 +14,7 @@ Email: taku.ito1@gmail.com (Taku Ito)
 
 #### General organization
 
-There are two main directories, as described below: resultdata/ and code/
+There are two main directories, as described below: `resultdata/` and `code/`
 
 * resultdata/ - contains generated outputs used for visualization. Outputs were generated on a compute cluster at Rutgers University (https://oarc.rutgers.edu)
 ** In general, this directory only exists to generate figures from the manuscript using the jupyter notebooks provided in `code/`
