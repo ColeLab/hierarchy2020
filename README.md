@@ -18,7 +18,7 @@ There are two main directories, as described below: `resultdata/` and `code/`
 
 * `resultdata/` - contains generated outputs used for visualization. Outputs were generated on a compute cluster at Rutgers University (https://oarc.rutgers.edu) 
   * In general, this directory only exists to generate figures from the manuscript using the jupyter notebooks provided in `code/`
-* `code/` - contains the code/scripts used to run analyses. There are two main types of codes: jupyter notebooks for figure visualization and statistical analyses, and scripts used to generate output data (e.g., FC, activation, timescale, activity flow outputs)
+* `code/` - contains the code/scripts used to run analyses. There are two main types of codes: jupyter notebooks for figure visualization and statistical calculation reported in the paper, and scripts used to generate output data (e.g., FC, activation, timescale, activity flow outputs)
   * jupyter notebooks have suffixes with `*.ipynb`. In general, notebooks are labeled such that `Fig2*` contains visualizations for Figure 2, and so on. Note that notebooks with `s`, e.g., `Fig2s*.ipynb` are results/analyses for the replication cohort of subjects. Some of these visualizations/graphs are not reported in the paper, but are provided here.
   * `activation_analyses/` - code to save out task GLM activations for all tasks. Assumes data has been already saved out as .h5 files.
   * `activityflow/` - code to run activity flow analysis on preprocessed HCP data
