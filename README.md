@@ -2,6 +2,8 @@
 code base for:
 Ito T, Hearne LJ, Cole MW (in press). "A cortical hierarchy of localized and distributed processes revealed via dissociation of task activations, connectivity changes, and intrinsic timescale." NeuroImage.
 
+bioRxiv link: https://www.biorxiv.org/content/10.1101/262626v2
+
 This is the initial code release. 
 
 Please note that almost all code was run on a compute cluster at Rutgers (https://oarc.rutgers.edu/). Much of the code, outside of data visualization, was run on this cluster. My intention of this code release is to enable others to adapt and use the code for their needs, and not as a 'plug-and-play' package.
